@@ -11,7 +11,6 @@
 * **Lightweight & Fast:** Built with Python for minimal resource consumption and quick launch times.
 * **Command-Line Native:** Edit files directly from your terminal with a simple command.
 * **Cross-Platform (Linux):** Primarily designed for Linux environments.
-* *(You can add more specific features here if your editor has them, e.g., "Basic Text Manipulation," "Syntax Highlighting," etc.)*
 
 ---
 ## Prerequisites
