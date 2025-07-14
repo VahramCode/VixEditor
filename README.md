@@ -65,6 +65,3 @@ After Vix Editor is successfully installed, you can launch it from any location 
    ```Bash
    vix /home/user/documents/notes.md
    ```
-Contributing
-(Optional: If you plan to accept contributions from others, add a section here explaining how they can contribute. For example: "Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features, please feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.")
-
