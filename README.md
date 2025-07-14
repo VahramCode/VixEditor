@@ -11,6 +11,7 @@
 * **Lightweight & Fast:** Built with Python for minimal resource consumption and quick launch times.
 * **Command-Line Native:** Edit files directly from your terminal with a simple command.
 * **Cross-Platform (Linux):** Primarily designed for Linux environments.
+* **Undo and Redo : ** you can Undo with ```Ctrl+Z``` and Redo with ```Ctrl+Y```
 
 ---
 ## Prerequisites
@@ -65,3 +66,4 @@ After Vix Editor is successfully installed, you can launch it from any location 
    ```Bash
    vix /home/user/documents/notes.md
    ```
+
