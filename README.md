@@ -25,3 +25,9 @@ To install `tkinter`:
 ```bash
 sudo apt-get update
 sudo apt-get install python3-tk
+```
+**On fedora based systems:**
+  ```Bash
+sudo dnf install python3-tkinter
+```
+
