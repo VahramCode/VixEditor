@@ -38,7 +38,7 @@ To install Vix Editor on your Linux system and use it as a command, follow these
    ```Bash
    git clone https://github.com/VahramCode/VixEditor.git
    ```
-   (Important: Please replace YOUR_USERNAME with your actual GitHub username and vix-editor with the name of your repository.)
+   
  * Navigate into the project directory:
    Move into the newly cloned project folder:
    ```Bash
