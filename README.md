@@ -41,7 +41,7 @@ To install Vix Editor on your Linux system and use it as a command, follow these
  * Navigate into the project directory:
    Move into the newly cloned project folder:
    ```Bash
-   cd vix-editor
+   cd VixEditor
    ```
 
  * Run the installation script:
